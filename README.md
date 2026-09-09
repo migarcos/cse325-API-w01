@@ -19,3 +19,25 @@ dotnet run
 GET {{ContosoPizza_HostAddress}}/pizza/
 Accept: application/json
 ````
+- Output (to the GET initial endpoint)
+````
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Wed, 09 Sep 2026 14:21:38 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+[
+  {
+    "id": 1,
+    "name": "Classic Italian",
+    "isGlutenFree": false
+  },
+  {
+    "id": 2,
+    "name": "Veggie",
+    "isGlutenFree": true
+  }
+]
+````
