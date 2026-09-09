@@ -5,7 +5,7 @@ The first command to create the project is:
 ````
 dotnet new webapi -controllers -f net10.0
 ````
-# Testing endpoints
+## Testing endpoints
 Open a Terminal view, an execute using:
 ````
 dotnet run
