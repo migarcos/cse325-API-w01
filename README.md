@@ -6,16 +6,16 @@ The first command to create the project is:
 dotnet new webapi -controllers -f net10.0
 ````
 ## Testing endpoints
-Open a Terminal view, an execute using:
+Open a Terminal view, and **execute the APP** using:
 ````
 dotnet run
 ````
-- Open ContosoPizza.http:
-- Select the Send Request command above the enpoint to test
+- Openin the VScode editor **ContosoPizza.http** file:
+- Click on the **Send Request** command above the enpoint to test
 
    (here an example to retrieve all data using GET)
 ````
-** Send Request ** 
+ Send Request 
 GET {{ContosoPizza_HostAddress}}/pizza/
 Accept: application/json
 ````

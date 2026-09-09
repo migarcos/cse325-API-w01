@@ -8,7 +8,7 @@ GET {{ContosoPizza_HostAddress}}/pizza/
 Accept: application/json
 
 ###
-GET {{ContosoPizza_HostAddress}}/pizza/3
+GET {{ContosoPizza_HostAddress}}/pizza/2
 Accept: application/json
 
 ###
