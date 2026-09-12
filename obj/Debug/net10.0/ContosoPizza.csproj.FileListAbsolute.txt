@@ -32,3 +32,4 @@ C:\Users\migarcos\Documents\BYU\CSE325\ContosoPizza\obj\Debug\net10.0\ContosoPiz
 C:\Users\migarcos\Documents\BYU\CSE325\ContosoPizza\obj\Debug\net10.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\migarcos\Documents\BYU\CSE325\ContosoPizza\obj\Debug\net10.0\ref\ContosoPizza.dll
 C:\Users\migarcos\Documents\BYU\CSE325\ContosoPizza\obj\Debug\net10.0\ContosoPizza.sourcelink.json
+C:\Users\migarcos\Documents\BYU\CSE325\ContosoPizza\bin\Debug\net10.0\Newtonsoft.Json.dll

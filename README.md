@@ -41,3 +41,12 @@ Transfer-Encoding: chunked
   }
 ]
 ````
+![Running App](API-running.png)
+
+# Sales Summary Report
+
+## Set-up
+to parse data into a format that you can use programmatically
+````
+dotnet add package Newtonsoft.Json
+````
